@@ -16,3 +16,5 @@ To develop recommendations for improving the performance of videos and channels 
 
 
 Architecture : 
+
+![image](https://user-images.githubusercontent.com/32273709/212418619-42331bd6-bc20-4925-91b0-0f804482667b.png)
