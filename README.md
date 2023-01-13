@@ -18,3 +18,7 @@ We will use publicly available data from the YouTube API, as well as any additio
 # Architecture : 
 
 ![image](https://user-images.githubusercontent.com/32273709/212418619-42331bd6-bc20-4925-91b0-0f804482667b.png)
+
+# Medium Article explaining the whole project with analysis :
+https://medium.com/@thejasbharadwaj98/building-an-end-to-end-data-engineering-project-on-youtube-data-analysis-bc42eeca576
+
