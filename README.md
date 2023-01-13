@@ -13,3 +13,6 @@ To understand the trends and patterns in the content on YouTube, including popul
 To analyze user engagement on the platform, including view counts, comment counts, and other engagement metrics.
 To identify the factors that contribute to the success of videos and channels on YouTube.
 To develop recommendations for improving the performance of videos and channels on the platform.
+
+
+Architecture : 
